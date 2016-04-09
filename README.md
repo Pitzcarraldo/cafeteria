@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/cafeteria.svg?style=flat-square)](https://www.npmjs.com/package/reduxible)
 
 
-> Dumb wrapper of chai, sinon friends.
+> Dumb wrapper of chai, sinon and friends.
 
 ## Install
 
