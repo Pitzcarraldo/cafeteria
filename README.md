@@ -1,7 +1,7 @@
 # Cafeteria
 
-[![npm version](https://img.shields.io/npm/v/cafeteria.svg?style=flat-square)](https://www.npmjs.com/package/reduxible)
-[![npm downloads](https://img.shields.io/npm/dm/cafeteria.svg?style=flat-square)](https://www.npmjs.com/package/reduxible)
+[![npm version](https://img.shields.io/npm/v/cafeteria.svg?style=flat-square)](https://www.npmjs.com/package/cafeteria)
+[![npm downloads](https://img.shields.io/npm/dm/cafeteria.svg?style=flat-square)](https://www.npmjs.com/package/cafeteria)
 
 
 > Dumb wrapper of chai, sinon and friends.
