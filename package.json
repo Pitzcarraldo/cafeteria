@@ -1,0 +1,37 @@
+{
+  "name": "cafeteria",
+  "version": "0.0.1",
+  "description": "Dumb wrapper of chai, sinon friends.",
+  "main": "index.js",
+  "author": "Minkyu Cho <mrnoname@naver.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Pitzcarraldo/cafeteria.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "sinon",
+    "javascript",
+    "test",
+    "tdd",
+    "assert",
+    "should"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "dirty-chai": "^1.2.2",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "peerDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
