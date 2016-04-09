@@ -42,20 +42,20 @@ describe('foos', function () {
 
 ## API
 
-**cafeteria.chai**: Same with chai.
-**cafeteria.assert**: Same with chai's.
-**cafeteria.expect**: Same with chai's.
-**cafeteria.should**: Same with chai's. Should run as function. e.g. `should()`.
-**cafeteria.sinon**: Same with sinon.
-**cafeteria.sandbox**: Same with sinon's.
-**cafeteria.spy**: Same with sinon's.
-**cafeteria.stub**: Same with sinon's.
-**cafeteria.mock**: Same with sinon's.
+* **cafeteria.chai**: Same with chai.
+* **cafeteria.assert**: Same with chai's.
+* **cafeteria.expect**: Same with chai's.
+* **cafeteria.should**: Same with chai's. Should run as function. e.g. `should()`.
+* **cafeteria.sinon**: Same with sinon.
+* **cafeteria.sandbox**: Same with sinon's.
+* **cafeteria.spy**: Same with sinon's.
+* **cafeteria.stub**: Same with sinon's.
+* **cafeteria.mock**: Same with sinon's.
 
 ## Useful links
 
- * [Mocha Cheat Sheets](http://ricostacruz.com/cheatsheets/mocha.html)
- * [Chai Cheat Sheets](http://ricostacruz.com/cheatsheets/chai.html)
- * [Sinon Cheat Sheets](http://ricostacruz.com/cheatsheets/sinon.html)
- * [Sinon Chai Cheat Sheets](http://ricostacruz.com/cheatsheets/sinon-chai.html)
+* [Mocha Cheat Sheets](http://ricostacruz.com/cheatsheets/mocha.html)
+* [Chai Cheat Sheets](http://ricostacruz.com/cheatsheets/chai.html)
+* [Sinon Cheat Sheets](http://ricostacruz.com/cheatsheets/sinon.html)
+* [Sinon Chai Cheat Sheets](http://ricostacruz.com/cheatsheets/sinon-chai.html)
  
