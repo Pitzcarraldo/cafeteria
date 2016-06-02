@@ -1,6 +1,6 @@
 {
   "name": "cafeteria",
-  "version": "1.0.0",
+  "version": “1.0.1”,
   "description": "Dumb wrapper of chai, sinon friends.",
   "main": "index.js",
   "author": "Minkyu Cho <mrnoname@naver.com>",
