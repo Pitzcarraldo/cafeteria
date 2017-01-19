@@ -2,9 +2,11 @@
 var chai = require('chai');
 var sinon = require('sinon');
 var sinonChai = require('sinon-chai');
+var chaiAsPromised = require('chai-as-promised');
 var dirtyChai = require('dirty-chai');
 
 chai.use(sinonChai);
+chai.use(chaiAsPromised);
 chai.use(dirtyChai);
 
 module.exports = module.exports.default = {
