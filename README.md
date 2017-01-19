@@ -17,7 +17,9 @@ $ npm install --save-dev mocha cafeteria
 * [chai](https://github.com/chaijs/chai)
 * [sinon](https://github.com/sinonjs/sinon)
 * [sinon-chai](https://github.com/domenic/sinon-chai)
-* [dirty-chai](https://github.com/prodatakey/dirty-chai): To support eslint rule [`no-unused-expressions `](https://github.com/eslint/eslint/issues/2102). 
+* [chai-as-promised](https://github.com/domenic/chai-as-promised)
+* [dirty-chai](https://github.com/prodatakey/dirty-chai): To support eslint rule [`no-unused-expressions `](https://github.com/eslint/eslint/issues/2102).
+ 
 
 ## Usage
 
